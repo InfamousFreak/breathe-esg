@@ -24,7 +24,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get('SECRET_KEY', 'fallback_key_for_local')
 DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'breathe-esg-vx7s.onrender.com', 
+    '127.0.0.1', 
+    'localhost',
+    '.onrender.com' # This acts as a wildcard fallback for Render
+]
 
 
 # Application definition
