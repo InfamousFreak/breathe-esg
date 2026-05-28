@@ -78,6 +78,12 @@ TEMPLATES = [
 WSGI_APPLICATION = 'esg_core.wsgi.application'
 
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://breathe-esg-vx7s.onrender.com',
+    'https://*.vercel.app' # This trusts your deployed frontend securely
+]
+
+
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
