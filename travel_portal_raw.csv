@@ -1,0 +1,22 @@
+[
+  {"booking_id": "BK-901", "flight_date": "2024-05-01", "employee_id": "EMP-04", "origin_airport": "JFK", "destination_airport": "LHR", "distance_km": 5541.0, "fare_usd": 850.00},
+  {"booking_id": "BK-902", "flight_date": "2024-05-02", "employee_id": "EMP-12", "origin_airport": "SFO", "destination_airport": "JFK", "distance_km": null, "fare_usd": 320.00},
+  {"booking_id": "BK-903", "flight_date": "05/12/2024", "employee_id": "EMP-01", "origin_airport": "DEL", "destination_airport": "LHR", "distance_km": 6710.0, "fare_usd": 910.00},
+  {"booking_id": "BK-904", "flight_date": "2024-05-04", "employee_id": "EMP-09", "origin_airport": "XYZ", "destination_airport": "CDG", "distance_km": 400.0, "fare_usd": 150.00},
+  {"booking_id": "BK-905", "flight_date": "2024-05-05", "employee_id": "EMP-15", "origin_airport": "LHR", "destination_airport": "DXB", "distance_km": -3400.0, "fare_usd": 620.00},
+  {"booking_id": "BK-906", "flight_date": "2024-05-06", "employee_id": "EMP-04", "origin_airport": "JFK", "destination_airport": "FRA", "distance_km": 12000.0, "fare_usd": 1100.00},
+  {"booking_id": "BK-907", "flight_date": "2024-05-07", "employee_id": "EMP-22", "origin_airport": "SFO", "destination_airport": "SIN", "distance_km": null, "fare_usd": 1450.00},
+  {"booking_id": "BK-908", "flight_date": "2024-05-08", "employee_id": "EMP-02", "origin_airport": "", "destination_airport": "LHR", "distance_km": 200.0, "fare_usd": 90.00},
+  {"booking_id": "BK-909", "flight_date": "2024-05-09", "employee_id": "EMP-11", "origin_airport": "JFK", "destination_airport": "SFO", "distance_km": "Five Thousand", "fare_usd": 400.00},
+  {"booking_id": "BK-910", "flight_date": "2024-05-10", "employee_id": "EMP-07", "origin_airport": "DXB", "destination_airport": "DEL", "distance_km": 2185.0, "fare_usd": 280.00},
+  {"booking_id": "BK-911", "flight_date": "2024-05-11", "employee_id": "EMP-04", "origin_airport": "LHR", "destination_airport": "CDG", "distance_km": 348.0, "fare_usd": 120.00},
+  {"booking_id": "BK-912", "flight_date": "2024-05-12", "employee_id": "EMP-14", "origin_airport": "FRA", "destination_airport": "JFK", "distance_km": 6190.0, "fare_usd": 780.00},
+  {"booking_id": "BK-913", "flight_date": "2024-05-13", "employee_id": "EMP-19", "origin_airport": "SIN", "destination_airport": "DXB", "distance_km": 5840.0, "fare_usd": 690.00},
+  {"booking_id": "BK-914", "flight_date": "2024-05-14", "employee_id": "EMP-03", "origin_airport": "DEL", "destination_airport": "SFO", "distance_km": 12340.0, "fare_usd": 1600.00},
+  {"booking_id": "BK-915", "flight_date": "2024-05-15", "employee_id": "EMP-08", "origin_airport": "JFK", "destination_airport": "DXB", "distance_km": 11020.0, "fare_usd": 1350.00},
+  {"booking_id": "BK-916", "flight_date": "2024-05-16", "employee_id": "EMP-21", "origin_airport": "SFO", "destination_airport": "LHR", "distance_km": 8610.0, "fare_usd": 990.00},
+  {"booking_id": "BK-917", "flight_date": "2024-05-17", "employee_id": "EMP-10", "origin_airport": "CDG", "destination_airport": "FRA", "distance_km": 450.0, "fare_usd": 180.00},
+  {"booking_id": "BK-918", "flight_date": "2024-05-18", "employee_id": "EMP-05", "origin_airport": "DXB", "destination_airport": "SIN", "distance_km": 5840.0, "fare_usd": 710.00},
+  {"booking_id": "BK-919", "flight_date": "2024-05-19", "employee_id": "EMP-16", "origin_airport": "LHR", "destination_airport": "DEL", "distance_km": 6710.0, "fare_usd": 890.00},
+  {"booking_id": "BK-920", "flight_date": "2024-05-20", "employee_id": "EMP-13", "origin_airport": "FRA", "destination_airport": "SFO", "distance_km": 9130.0, "fare_usd": 1150.00}
+]

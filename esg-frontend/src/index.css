@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --page-bg: #050505;
+  --page-bg-alt: #111111;
+  --panel-bg: rgba(14, 14, 14, 0.9);
+  --page-border: rgba(255, 255, 255, 0.08);
+  --page-text: #ececec;
+  --page-muted: #a1a1aa;
+  --page-accent: #22d3c5;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top, rgba(34, 211, 197, 0.09), transparent 30%),
+    radial-gradient(circle at bottom right, rgba(255, 255, 255, 0.05), transparent 26%),
+    linear-gradient(180deg, var(--page-bg) 0%, #090909 44%, var(--page-bg-alt) 100%);
+  color: var(--page-text);
+  font-family: 'Agrandir', 'Manrope', 'Avenir Next', 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}

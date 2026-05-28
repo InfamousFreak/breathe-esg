@@ -1,0 +1,31 @@
+# === Python / Django ===
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+db.sqlite3
+db.sqlite3-journal
+
+# === React / Frontend / Vite ===
+node_modules/
+dist/
+dist-ssr
+*.local
+.eslintcache
+
+# === Operating System Logs & IDEs ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
