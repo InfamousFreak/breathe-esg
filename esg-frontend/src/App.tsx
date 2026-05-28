@@ -13,7 +13,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('http://127.0.0.1:8000/api/v1/dashboard/pending-review/')
+    fetch('https://breathe-esg-vx7s.onrender.com/api/v1/dashboard/pending-review/')
       .then(res => {
         if (!res.ok) throw new Error('Failed to fetch data');
         return res.json();
